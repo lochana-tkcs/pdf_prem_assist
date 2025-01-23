@@ -9,3 +9,4 @@ pymupdf
 pillow
 streamlit-aggrid
 streamlit-pdf-viewer
+PyPDF2
