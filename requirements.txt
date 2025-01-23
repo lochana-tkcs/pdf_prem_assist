@@ -10,3 +10,9 @@ pillow
 streamlit-aggrid
 streamlit-pdf-viewer
 PyPDF2
+torch --index-url https://download.pytorch.org/whl/cu118
+torchvision --index-url https://download.pytorch.org/whl/cu118
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+transformers
+gmft
+pypdfium2
